@@ -1,0 +1,62 @@
+poz = 1, i = 1, sum = 0
+sol, cu sum = 1
+false returnat
+0 0 1 0 
+poz = 2, i = 2, sum = 1
+retete[i][j] = 3
+not ok, i = 2
+0 1 1 0 
+0 1 1 0 
+poz = 2, i = 3, sum = 1
+sol, cu sum = 9
+false returnat
+1 1 1 0 
+poz = 3, i = 3, sum = 9
+1 1 1 0 
+poz = 3, i = 4, sum = 9
+0 1 1 1 
+poz = 3, i = 5, sum = 17
+0 1 1 1 
+0 1 1 1 
+poz = 2, i = 4, sum = 1
+retete[i][j] = 4
+not ok, i = 4
+0 1 1 1 
+0 1 1 1 
+poz = 2, i = 5, sum = 1
+retete[i][j] = 3
+not ok, i = 5
+0 1 1 1 
+0 1 1 1 
+0 1 1 1 
+poz = 1, i = 2, sum = -9
+0 1 1 1 
+poz = 1, i = 3, sum = -9
+sol, cu sum = -1
+false returnat
+1 1 1 1 
+poz = 2, i = 2, sum = -1
+retete[i][j] = 2
+not ok, i = 2
+1 1 1 1 
+1 1 1 1 
+poz = 2, i = 3, sum = -1
+retete[i][j] = 1
+not ok, i = 3
+1 1 1 1 
+1 1 1 1 
+poz = 2, i = 4, sum = -1
+retete[i][j] = 4
+not ok, i = 4
+1 1 1 1 
+1 1 1 1 
+poz = 2, i = 5, sum = -1
+retete[i][j] = 3
+not ok, i = 5
+1 1 1 1 
+1 1 1 1 
+0 1 1 1 
+poz = 1, i = 4, sum = -9
+0 1 1 1 
+poz = 1, i = 5, sum = -9
+0 1 1 1 
